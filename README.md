@@ -4,6 +4,20 @@
 # 참고
 [https://github.com/jungwoo-ha/WeeklyArxivTalk/](https://github.com/jungwoo-ha/WeeklyArxivTalk/)
 
+# Topics
+* Deep RL
+* Adversarial Examples
+* Approximate Inference
+* Applications
+  * CV
+  * NLP
+  * Speech
+* Learning Theory
+* GAN
+* Deep Learning Theory
+* Optimization
+* Neuroscience
+
 
 # 앞으로 읽을 논문 list
 ## Neurips 2020
@@ -41,7 +55,7 @@
 *   Measuring Robustness to Natural Distribution Shifts in Image Classification
 *   The Complete Lasso Tradeoff Diagram
 *   Adversarial Training is a Form of Data-dependent Operator Norm Regularization
-*   Most ReLU Networks Suffer from ℓ2ℓ2 Adversarial Perturbations
+*   Most ReLU Networks Suffer from l2 Adversarial Perturbations
 *   What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation
 *   
 
@@ -49,4 +63,7 @@
 
 *   ~~Unsupervised Data Augmentation for Consistency Training~~
 
+## ICML 2019
+### Tutorial
+*    [Active Learning: From Theory to Practice](https://nowak.ece.wisc.edu/ActiveML.html)
 
