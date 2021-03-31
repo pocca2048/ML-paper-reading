@@ -7,9 +7,10 @@ assignees: ''
 
 ---
 
-Conference : 
-Authors' Affiliation :
-TL; DR : 
+**Conference** : 
+**Link** : 
+**Authors' Affiliation** : 
+**TL;DR** : 
 
 
-Summary :
+**Summary** :
