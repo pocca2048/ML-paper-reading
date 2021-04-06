@@ -1,10 +1,10 @@
 # 목적
-(가능하다면) 매일 논문 한편씩 읽는다.
+ML 논문을 자주 읽자.
 
 # 참고
-[https://github.com/jungwoo-ha/WeeklyArxivTalk/](https://github.com/jungwoo-ha/WeeklyArxivTalk/)
-[r/MachineLearning](https://www.reddit.com/r/MachineLearning)
-https://syncedreview.com/
+* [https://github.com/jungwoo-ha/WeeklyArxivTalk/](https://github.com/jungwoo-ha/WeeklyArxivTalk/)
+* [r/MachineLearning](https://www.reddit.com/r/MachineLearning)
+* https://syncedreview.com/
 
 # Topics
 * Deep RL
@@ -71,7 +71,8 @@ https://syncedreview.com/
 
 ## arxiv
 * [How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627) - Geoffrey Hinton
-* Exploring Simple Siamese Representation Learning - after BYOL
+* Exploring Simple Siamese Representation Learning - after BYOL (SimSiam)
+* Understanding self-supervised Learning Dynamics without Contrastive Pairs - after BYOL & SimSiam
 * [Transformer visualization via dictionary learning: contextualized embedding as a linear superposition of transformer factors](https://arxiv.org/abs/2103.15949)
 * [EfficientNetV2](https://arxiv.org/abs/2104.00298)
 * [Towards General Purpose Vision Systems](https://arxiv.org/abs/2104.00743)
