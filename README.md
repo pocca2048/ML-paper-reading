@@ -3,6 +3,8 @@
 
 # 참고
 [https://github.com/jungwoo-ha/WeeklyArxivTalk/](https://github.com/jungwoo-ha/WeeklyArxivTalk/)
+[r/MachineLearning](https://www.reddit.com/r/MachineLearning)
+https://syncedreview.com/
 
 # Topics
 * Deep RL
@@ -66,4 +68,13 @@
 ## ICML 2019
 ### Tutorial
 *    [Active Learning: From Theory to Practice](https://nowak.ece.wisc.edu/ActiveML.html)
+
+## arxiv
+* [How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627) - Geoffrey Hinton
+* Exploring Simple Siamese Representation Learning - after BYOL
+* [Transformer visualization via dictionary learning: contextualized embedding as a linear superposition of transformer factors](https://arxiv.org/abs/2103.15949)
+* [EfficientNetV2](https://arxiv.org/abs/2104.00298)
+* [Towards General Purpose Vision Systems](https://arxiv.org/abs/2104.00743)
+* [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493)
+
 
